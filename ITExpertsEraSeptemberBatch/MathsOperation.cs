@@ -16,6 +16,7 @@ namespace ITExpertsEraSeptemberBatch
 
             int i = 10;
             int j = 20; 
+            int k = 100;
 
             Console.WriteLine(i+ j);
         }
