@@ -15,6 +15,7 @@ namespace ITExpertsEraSeptemberBatch
         // create new variable
 
         public int noOfSeats = 6;
+        public string color = "Red";
 
         // Properties 
         //Syntax
