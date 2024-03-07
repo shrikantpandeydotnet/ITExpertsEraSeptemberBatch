@@ -51,6 +51,11 @@ namespace ITExpertsEraSeptemberBatch
 
         }
 
+        public void CurrentSpeed()
+        {
+            Console.WriteLine("Your current speed is  120kph");
+        }
+
 
     }
 }
