@@ -12,6 +12,10 @@ namespace ITExpertsEraSeptemberBatch
         //variable 
         public int speed = 10;
 
+        // create new variable
+
+        public int noOfSeats = 6;
+
         // Properties 
         //Syntax
         public string Name { get; set; }
